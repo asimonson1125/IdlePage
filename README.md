@@ -1,0 +1,2 @@
+# IdlePage
+Visual on idle
